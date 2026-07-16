@@ -1,4 +1,4 @@
-## David Maxon
+## David M.
 
 Higher-ed compliance professional building AI tools for the field I work in.
 DSO/PDSO · J.D. · 10+ years in international student services.
