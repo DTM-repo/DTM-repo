@@ -3,7 +3,7 @@
 Higher-ed compliance professional building AI tools for the field I work in.
 DSO/PDSO · J.D. · 10+ years in international student services.
 
-Claude writes the code, but I tell it what the should do: architect, orchestrate, test, verify
+Claude writes the code, but I tell it what the code should do: architect, orchestrate, test, verify
 
 **Live products**
 - [HenryKnows](https://henryknows.info) — compliance co-pilot for international-student advisors (Claude Code → Anthropic API)
